@@ -2,5 +2,5 @@ basepath = "."
 
 locales = ["de", "fr", "it", "zh-CN"]
 [[paths]]
-    reference = "locales/zh-CN/**"
+    reference = "template/addon.properties"
     l10n = "locales/{locale}/**"
